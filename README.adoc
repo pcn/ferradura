@@ -1,0 +1,3 @@
+== ferradura
+
+Use the rust-http library to interact with AWS.  Learn rust.
