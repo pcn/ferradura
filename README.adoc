@@ -2,6 +2,6 @@
 
 Use the rust-http library to interact with AWS.  Learn rust.
 
-image::graphics/Horseshoe.jpg[
+image:graphics/Horseshoe.jpg[
 "Lucky Horseshoe", width=128,
 link="graphics/Horseshoe.jpg"]
