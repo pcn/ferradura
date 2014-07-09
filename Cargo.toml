@@ -1,0 +1,19 @@
+[package]
+
+name = "fs3"
+version = "0.1.0"
+authors = [ "spacey@spacey.org" ]
+
+[[bin]]
+name = "connect_s3"
+path = "src/s3/connect.rs"
+
+[dependencies.http]
+git = "https://github.com/pcn/rust-http.git"
+
+[dependencies.RustyXML]
+git = "https://github.com/Florob/RustyXML.git"
+
+[dependencies.docopt]
+git = "https://github.com/pcn/docopt.rs.git"
+branch = "change-to-str-to-string"

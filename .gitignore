@@ -75,6 +75,7 @@ src/.DS_Store
 /doc
 /nd/
 /llvm/
+/target/
 version.md
 keywords.md
 x86_64-apple-darwin/
